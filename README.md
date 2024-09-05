@@ -1,1 +1,1 @@
-# FlappyBird.exe
+This is the game called "Flappy Bird", it is afamous game during the early 2000's. It is created by using the java language in the visual studio application. The dimension for this game is 640x360. In this game, there are 4 images are used known as Backround, FlappyBird, Bottompipe and Frontpipe. This is my first try in creating games beacause i am more intrested in creating the game.
